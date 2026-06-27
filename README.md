@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 id="v2ray-collector" align="center">🎯 collector | @FNET00 🤍</h1>
+<h1 id="v2ray-collector" align="center">🎯 collector | @giniagent 🤍</h1>
 <h2 id="v2ray-collector" align="center">Free internet or for everyone ♻️ or nobody ❌</h2>
 <p align="center">
   <a href="https://t.me/FNET00">
