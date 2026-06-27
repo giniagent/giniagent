@@ -8,8 +8,6 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/license/FNET00bot/FNET00BOT?color=5D6D7E" alt="GitHub license">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/FNET00Bot/Fnet00bot">
-  <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/FNET00Bot/FNET00bot">
 </p>
 <p align="center">
   <b>This project is only intended to solve the problem of filtering and connecting to the free internet.  Any other commercial, sales and advertising use is not acceptable!</b>
